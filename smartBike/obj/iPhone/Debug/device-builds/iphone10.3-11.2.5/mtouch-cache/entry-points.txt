@@ -1,0 +1,23 @@
+Function=xamarin_timezone_get_data
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/mtouch-cache/Link/System.dll
+Function=mono_pmip

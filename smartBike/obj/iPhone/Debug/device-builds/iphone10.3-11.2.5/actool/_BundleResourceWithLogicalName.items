@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/bundle/Assets.car">
+      <LogicalName>Assets.car</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/OnDemandResources/com.dii.smartbike.faceImage.assetpack/Assets.car">
+      <OutputPath>bin/iPhone/Debug/device-builds/iphone10.3-11.2.5/OnDemandResources/com.dii.smartbike.faceImage.assetpack/Assets.car</OutputPath>
+      <LogicalName>OnDemandResources/com.dii.smartbike.faceImage.assetpack/Assets.car</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/OnDemandResources/com.dii.smartbike.faceImage.assetpack/Info.plist">
+      <LogicalName>OnDemandResources/com.dii.smartbike.faceImage.assetpack/Info.plist</LogicalName>
+      <OutputPath>bin/iPhone/Debug/device-builds/iphone10.3-11.2.5/OnDemandResources/com.dii.smartbike.faceImage.assetpack/Info.plist</OutputPath>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

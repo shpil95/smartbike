@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{405989F0-430B-4739-9870-E5243B1F1FBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="smartBike/CameraViewController.cs">
+    <Files>
+      <File FileName="smartBike/ViewController.cs" Line="49" Column="18" />
+      <File FileName="smartBike/Main.cs" Line="15" Column="1" />
+      <File FileName="smartBike/FamilyMemberController.cs" Line="19" Column="13" />
+      <File FileName="smartBike/FamilyListController.cs" Line="20" Column="32" />
+      <File FileName="smartBike/AzureHelper.cs" Line="1" Column="1" />
+      <File FileName="smartBike/CameraViewController.cs" Line="1" Column="1" />
+      <File FileName="smartBike/Main.storyboard" />
+      <File FileName="smartBike/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.smartbike PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D98309E-F0AE-4208-8F4D-4C2FB2922B9C" automaticSigning="False" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/David/Projects/smartBike/smartBike/CameraViewContoller.cs" relfile="smartBike/CameraViewContoller.cs" line="9" column="1" />
+      <Breakpoint enabled="false" file="/Users/David/Projects/smartBike/smartBike/EmptyClass.cs" relfile="smartBike/EmptyClass.cs" line="49" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

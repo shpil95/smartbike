@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>bundle-id</key>
+		<string>com.dii.smartbike.asset-pack-224HP9AT3GDQ3</string>
+		<key>bundle-path</key>
+		<string>/Users/David/Projects/smartBike/smartBike/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/OnDemandResources/com.dii.smartbike.faceImage.assetpack</string>
+		<key>tags</key>
+		<array>
+			<string>faceImage</string>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -36,7 +36,7 @@ namespace smartbike
              */
             testButton.TouchUpInside += async (sender, e) =>
             {
-                makePhoto();
+                 makePhoto();
                 //Func<object> func = CreateOverlay;
                 //var test = await CrossMedia.Current.TakePhotoAsync(new Plugin.Media.Abstractions.StoreCameraMediaOptions
                 //{
@@ -84,7 +84,7 @@ namespace smartbike
             {   // отправка в ажур
                 MainImage.Image = UIImage.LoadFromData(data);
                 image = UIImage.LoadFromData(data);
-                await AzureHelper.UploadImageAsync(image, DateTime.Now.Day.ToString() + DateTime.Now.Second.ToString());
+                await AzureHelper.UploadImageAsync(image, DateTime.Now.Day.ToString() + DateTime.Now.Second.ToString()+".png");
                 await AzureHelper.performBlobOperation();
             }
 
