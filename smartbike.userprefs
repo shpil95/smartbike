@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{405989F0-430B-4739-9870-E5243B1F1FBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="smartBike/Main.storyboard">
+    <Files>
+      <File FileName="smartBike/CameraViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="smartBike/Main.storyboard" />
+      <File FileName="smartBike/Info.plist" />
+      <File FileName="smartBike/CameraViewController.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.smartbike PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.1b6cffee94a996f149a0fc08b462c72314ac2005" automaticSigning="False" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

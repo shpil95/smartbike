@@ -20,13 +20,13 @@ namespace smartbike
         public static async Task performBlobOperation()
         {
             // Retrieve storage account from connection string.
-            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=smartbikestorageacc;AccountKey=JAzELGf3/eolgsIOceGhJsATZQnmZT4p5ChKBRFa4wsPPMn4AwtsQr3JuIIB/JTUUUiXEoleCd4bMKZIhrQyLQ==");
+            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=smartbikestorageacc2;AccountKey=hKzX7JJLDMhnL3rpKgUhHjWlNRzPNIO9Vikpunr+dtwz7SgpGLo9FPDQm1ZefUgxHe7/mFEf4e/pPtHJZmnJaA==;EndpointSuffix=core.windows.net");
 
             // Create the blob client.
             CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
 
             // Retrieve reference to a previously created container.
-            CloudBlobContainer container = blobClient.GetContainerReference("storagecontainer");
+            CloudBlobContainer container = blobClient.GetContainerReference("media");
 
             // Create the container if it doesn't already exist.
             await container.CreateIfNotExistsAsync();
@@ -40,7 +40,7 @@ namespace smartbike
 
         static CloudBlobClient GetClient()
         {
-            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=smartbikestorageacc;AccountKey=JAzELGf3/eolgsIOceGhJsATZQnmZT4p5ChKBRFa4wsPPMn4AwtsQr3JuIIB/JTUUUiXEoleCd4bMKZIhrQyLQ==");
+            CloudStorageAccount storageAccount = CloudStorageAccount.Parse("DefaultEndpointsProtocol=https;AccountName=smartbikestorageacc2;AccountKey=hKzX7JJLDMhnL3rpKgUhHjWlNRzPNIO9Vikpunr+dtwz7SgpGLo9FPDQm1ZefUgxHe7/mFEf4e/pPtHJZmnJaA==;EndpointSuffix=core.windows.net");
 
             // Create the blob client.
             CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();

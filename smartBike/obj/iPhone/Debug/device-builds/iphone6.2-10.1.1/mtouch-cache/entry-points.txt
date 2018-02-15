@@ -1,0 +1,23 @@
+Function=xamarin_timezone_get_data
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/mscorlib.dll
+Function=UIApplicationMain
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/ilya/Google Drive/TECHNION_WINTER_2017_2018/236233/last_days/smartbike/smartBike/obj/iPhone/Debug/device-builds/iphone6.2-10.1.1/mtouch-cache/Link/System.dll
+Function=mono_pmip
