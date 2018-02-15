@@ -32708,7 +32708,7 @@ runtime_version:
 .section __TEXT, __const
 	.align 2
 assembly_guid:
-	.asciz "FCFF5408-082E-4A08-A382-14476E8C63DF"
+	.asciz "DA4C2094-03FD-4757-AC66-59833EF02069"
 .section __TEXT, __const
 	.align 2
 assembly_name:
@@ -32791,7 +32791,7 @@ _mono_aot_file_info:
 	.long 368,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 248,217,106,229,53,204,83,111,206,103,99,237,155,35,65,138
+	.byte 85,97,165,205,84,183,13,193,76,183,39,1,127,203,162,65
 	.globl _mono_aot_module_smartbike_info
 	.align 3
 _mono_aot_module_smartbike_info:

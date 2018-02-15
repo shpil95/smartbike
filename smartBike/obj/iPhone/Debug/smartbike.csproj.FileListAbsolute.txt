@@ -59,7 +59,7 @@
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/_PartialAppManifest.items
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/actool/_BundleResourceWithLogicalName.items
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/device-builds/iphone10.3-11.2.5/optimized/
+/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/smartbike.csprojResolveAssemblyReference.cache
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/smartbike.csproj.CoreCompileInputs.cache
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/smartbike.exe
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/smartbike.pdb
-/Users/David/Projects/smartBike/smartBike/obj/iPhone/Debug/smartbike.csprojResolveAssemblyReference.cache

@@ -9513,7 +9513,7 @@ _mono_aot_file_info:
 	.long 208,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 80,59,203,0,17,213,218,237,33,87,95,208,169,48,197,84
+	.byte 94,169,74,19,146,247,58,14,6,164,179,120,113,243,203,65
 	.globl _mono_aot_module_Plugin_Media_Abstractions_info
 	.align 3
 _mono_aot_module_Plugin_Media_Abstractions_info:

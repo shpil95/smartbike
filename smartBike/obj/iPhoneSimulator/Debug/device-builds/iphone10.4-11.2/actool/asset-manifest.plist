@@ -6,6 +6,7 @@
 	<dict>
 		<key>output-files</key>
 		<array>
+			<string>/Users/David/Projects/smartBike/smartBike/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/bundle/AppIcon60x60@3x.png</string>
 			<string>/Users/David/Projects/smartBike/smartBike/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/bundle/Assets.car</string>
 			<string>/Users/David/Projects/smartBike/smartBike/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/OnDemandResources/com.dii.smartbike.faceImage.assetpack/Assets.car</string>
 			<string>/Users/David/Projects/smartBike/smartBike/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/partial-info.plist</string>

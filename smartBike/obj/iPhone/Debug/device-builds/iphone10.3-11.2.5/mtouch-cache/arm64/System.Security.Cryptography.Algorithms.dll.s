@@ -1031,7 +1031,7 @@ _mono_aot_file_info:
 	.long 32,0,0,0,0,0,0,0
 	.long 0,0,0,0,0,0,0,0
 	.long 0
-	.byte 107,189,73,124,243,91,255,161,197,29,140,36,251,77,121,48
+	.byte 136,132,114,204,76,220,201,231,148,174,147,103,44,134,53,186
 	.globl _mono_aot_module_System_Security_Cryptography_Algorithms_info
 	.align 3
 _mono_aot_module_System_Security_Cryptography_Algorithms_info:

@@ -28,6 +28,14 @@ namespace smartbike
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UILabel ModeLable { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        UIKit.UISwitch ModeSwitch { get; set; }
+
+        [Outlet]
+        [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UIButton testButton { get; set; }
 
         void ReleaseDesignerOutlets ()
@@ -45,6 +53,16 @@ namespace smartbike
             if (MainImage != null) {
                 MainImage.Dispose ();
                 MainImage = null;
+            }
+
+            if (ModeLable != null) {
+                ModeLable.Dispose ();
+                ModeLable = null;
+            }
+
+            if (ModeSwitch != null) {
+                ModeSwitch.Dispose ();
+                ModeSwitch = null;
             }
 
             if (testButton != null) {

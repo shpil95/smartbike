@@ -16,7 +16,7 @@
 	--sdk \
 	11.2 \
 	--targetver \
-	11.1 \
+	10.0 \
 	--aot-options=-O=float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=arm64 \

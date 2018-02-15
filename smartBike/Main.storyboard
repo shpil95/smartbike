@@ -124,15 +124,26 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="8160" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
-                                <rect key="frame" x="106" y="399" width="160" height="30"/>
+                                <rect key="frame" x="127" y="376" width="119" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="I am Ready!"/>
                                 <connections/>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" id="8376" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES" image="Image-1">
-                                <rect key="frame" x="75" y="461" width="222" height="252"/>
+                                <rect key="frame" x="84" y="457" width="222" height="252"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="leading" contentVerticalAlignment="center" on="YES" id="21722" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="254" y="425" width="51" height="31"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </switch>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Learn mode" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="21723" translatesAutoresizingMaskIntoConstraints="NO" fixedFrame="YES">
+                                <rect key="frame" x="138" y="430" width="96" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="16" weight="light"/>
+                                <nil key="highlightedColor"/>
+                                <color key="textColor" colorSpace="calibratedRGB" red="0.047058823529411764" green="0.3843137254901961" blue="0.996078431372549" alpha="1"/>
+                            </label>
                         </subviews>
                     </view>
                     <connections>
@@ -140,6 +151,8 @@
                         <outlet property="HelloLabel" destination="6129" id="name-outlet-6129"/>
                         <outlet property="testButton" destination="8160" id="name-outlet-8160"/>
                         <outlet property="MainImage" destination="8376" id="name-outlet-8376"/>
+                        <outlet property="ModeLable" destination="21723" id="name-outlet-21723"/>
+                        <outlet property="ModeSwitch" destination="21722" id="name-outlet-21722"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5702" userLabel="First Responder" sceneMemberID="firstResponder"/>

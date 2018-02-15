@@ -61,4 +61,5 @@
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Release/smartbike.csproj.CoreCompileInputs.cache
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Release/smartbike.exe
 /Users/David/Projects/smartBike/smartBike/obj/iPhone/Release/smartbike.pdb
+/Users/David/Projects/smartBike/smartBike/obj/iPhone/Release/smartbike.csprojResolveAssemblyReference.cache
 /Users/David/Projects/smartBike/smartBike/bin/iPhone/Release/mtouch.stamp
